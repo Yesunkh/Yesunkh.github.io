@@ -6,7 +6,7 @@
 }
 .header1 {
     text-align: center;
-    font-family: 'Creepster';
+    
     background-image: linear-gradient(90deg, red, blue, green, violet);
 }
 body {
