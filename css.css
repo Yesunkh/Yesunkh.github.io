@@ -6,7 +6,7 @@
 }
 .header1 {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Creepster';
     background-image: linear-gradient(90deg, red, blue, green, violet);
 }
 body {
@@ -16,3 +16,4 @@ body {
 a {
     color: lightblue;
 }
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
