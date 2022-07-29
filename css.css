@@ -12,6 +12,7 @@
 body {
     background-image: url("https://cdn.wallpapersafari.com/79/86/PNuwWy.png");
     background-repeat: repeat-y;
+    cursor: src(Blue heartness crewate.cur), pointer;
 }
 a {
     color: lightblue;
